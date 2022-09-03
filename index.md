@@ -1,4 +1,4 @@
-# Jacob Lavra's First CS193 Assignment 
+# Jacob Lavra's First CS193 Homework 
 
 - I enjoy going to class with my friends 
 - I'm excited to learn about programming tools 
